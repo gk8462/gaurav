@@ -1,0 +1,11 @@
+Complete website +CMS features:
+
+Website Topic: Cricket News
+
+1.A complete website for the users with dynamic content
+2.Images will be uploaded to website using PHP
+3.A custom Search Engine for our website
+4.An advance Admin panel for our website
+5.User's emails & Auto response in PHP
+6.Security for website in PHP for protecting site from hackers
+6.Uploading website to online web server
